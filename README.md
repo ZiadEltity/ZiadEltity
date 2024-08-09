@@ -1,8 +1,8 @@
  ## `Hi` , I’m Ziad Eltity 👋 
 -----------------------------------------------------------------------
-Highly motivated DevOps Engineer passionate about building and maintaining scalable, reliable, and secure systems. Possess the ability to automate and deploy software processes with a strong understanding of cloud computing, containerization, and CI/CD principles. Seeking a challenging role in a fast-paced, innovative environment where my skills, educational background, and experience can be fully utilized and enhanced.
+A skilled DevOps engineer with a bachelor’s degree in communication and electronics engineering, an ITI DevOps track graduate and certified as Red Hat System Administrator (RHSCA). Aiming to find an opportunity where I can develop my skills and gain experience in the field of DevOps in a well-establish company where my skills and knowledge can be utilized and developed and can add value to the company.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranaahmedit&label=Profile%20views&color=0e75b6&style=flat" alt="Ranaahmedit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZiadEltity&label=Profile%20views&color=0e75b6&style=flat" alt="ZiadEltity" /> </p>
 
 
 ## 💫 About Me:
